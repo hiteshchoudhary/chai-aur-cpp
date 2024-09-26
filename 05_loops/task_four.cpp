@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main(){
-    
+int main(){    
     string response;
 
     while(true){
@@ -13,12 +12,8 @@ int main(){
             //exit the loop
             break;
         }
-
         cout << "Here is your another cup of tea. \n";
     }
-
     cout << "No more tea will be served to you";
-
     return 0;
-
 }
