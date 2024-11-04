@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/apple/Desktop/Hindi/cpp/07_array/five'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D2C, symSize: 0x114 }
+  - { offset: 0x3205, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xE37E, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x3510, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x1EC, symBinAddr: 0x100003F54, symSize: 0x0 }
+  - { offset: 0x352A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x1ED, symBinAddr: 0x100003F55, symSize: 0x0 }
+  - { offset: 0x3544, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x1EE, symBinAddr: 0x100003F56, symSize: 0x0 }
+  - { offset: 0x3552, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_five.cpp, symObjAddr: 0x150, symBinAddr: 0x100003E7C, symSize: 0x14 }
+  - { offset: 0x356C, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x114, symBinAddr: 0x100003E40, symSize: 0x3C }
+  - { offset: 0x3574, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_five.cpp, symObjAddr: 0x150, symBinAddr: 0x100003E7C, symSize: 0x14 }
+  - { offset: 0x3591, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D2C, symSize: 0x114 }
+  - { offset: 0x3599, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x114, symBinAddr: 0x100003E40, symSize: 0x3C }
+...
